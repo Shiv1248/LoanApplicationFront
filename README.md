@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # LoanApplicationFront
 This is the frontend implementation of the LoanApplicationSystem
+To access the frontend part, go to https://github.com/Shiv1248/LoanApplicationSystem
 =======
 # LoanApp
 
